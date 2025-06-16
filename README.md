@@ -12,8 +12,6 @@ This repository contains two Python scripts for the Module 2 assignment of the T
 - Python 3.x installed (verify with `python --version`).
 - Git installed (verify with `git --version`).
 - Visual Studio Code (VS Code) with Git extension enabled.
-- A GitHub account (`sakshi892001` in this case).
-- A Personal Access Token (PAT) for GitHub authentication.
 
 ## Repository Setup
 
@@ -55,5 +53,6 @@ This repository contains two Python scripts for the Module 2 assignment of the T
 
 ## Notes
 
-+ Ensure Python is installed and added to your system's PATH.
+- Ensure Python is installed and added to your system's PATH.
+
 - Test the scripts with various inputs to verify robustness.
